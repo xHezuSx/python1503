@@ -65,14 +65,14 @@ import math
 # print('jest ich ',suma)
 
 #zadanie 9:
-x = int(input('podaj dodatnia wartosc= '))
-try:
-    sqrt = math.sqrt(x)
-except ValueError:
-    print('blad, podales liczbe ujemna')
-    exit()
-
-print(sqrt)
-
-print(x)
+# x = int(input('podaj dodatnia wartosc= '))
+# try:
+#     sqrt = math.sqrt(x)
+# except ValueError:
+#     print('blad, podales liczbe ujemna')
+#     exit()
+#
+# print(sqrt)
+#
+# print(x)
 
